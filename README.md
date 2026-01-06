@@ -4,3 +4,4 @@ Day 2:Git workflow
 day3 : i learnt architectures of ml 
 day 4: i laernt cnn
 day 5 : learnt knn
+day 6: finding problem statement
