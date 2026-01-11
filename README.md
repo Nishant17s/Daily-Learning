@@ -8,3 +8,4 @@ day 6: finding problem statement
 day7: i went to iitm eminient lecture series 4 
 day 8 : i learnt agi
 DAY10 :REASEARCH PAPER 
+day11: made ieee conferece paper 
