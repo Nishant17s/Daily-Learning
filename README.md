@@ -11,3 +11,4 @@ DAY10 :REASEARCH PAPER
 day11: made ieee conferece paper 
 day12 : attended project review
 day13:
+day17: applied infosys instep
