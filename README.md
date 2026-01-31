@@ -14,3 +14,4 @@ day13:
 day17: applied infosys instep
 day 23: created ppt and poc for tamil nadu hackathon
 day 29: main post
+day 31: apply for g intern
