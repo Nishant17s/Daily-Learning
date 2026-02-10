@@ -17,3 +17,4 @@ day 29: main post
 day 31: apply for g intern
 day feb 2: ms intern certified
 day 3 : reasearched abt eduskills intern
+day 10 :
